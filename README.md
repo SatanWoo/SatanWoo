@@ -2,7 +2,5 @@
 
 ### 来啦老铁 👋
 
-- 🔭 I’m currently working on [DartNative](https://github.com/dart-native)
-- 🌱 I’m currently learning iOS
-- 🎮 I'm currently playing *Wiedźmin 3: Dziki Gon*
-- 📫 How to reach me: yulingtianxia@gmail.com
+- 🔭 I’m currently working on [TrampolineHook](https://github.com/SatanWoo/TrampolineHook)
+- 🌱 I’m currently learning Python
